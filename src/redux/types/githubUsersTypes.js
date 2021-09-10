@@ -1,0 +1,4 @@
+export const GET_TEN_USERS = 'GET_TEN_USERS'
+export const SET_CURRENT_USER = 'GET_CURRENT_USER'
+export const SET_USER_INFO = 'SET_USER_INFO'
+export const SET_CURRENT_REPO = 'SET_CURRENT_REPO'
